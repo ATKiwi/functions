@@ -11,3 +11,7 @@ function power(i, o) {
     let c = Math.pow(i,o)
     return c 
 }
+function subtract(a, b) {
+    let c = a - b
+    return c
+}
